@@ -52,6 +52,9 @@ public class Utils {
         System.out.println("changes by PST dev");
         JsonPath js = new JsonPath(response.asString());
         return js.getString(KeyParameter);
-
+    }
+    public void dummyArchitectschange()
+    {
+        System.out.println("changes by PST Architect");
     }
 }
