@@ -17,4 +17,8 @@ arci1 change
 =======
 >>>>>>> main
 
+<<<<<<< HEAD
 hiiiiiiiii
+=======
+change by IST
+
